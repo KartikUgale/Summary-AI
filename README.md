@@ -1,13 +1,20 @@
 # 🧠 Smart Summary AI – Chrome Extension
 
-![Badge: Java](https://img.shields.io/badge/Java-23-orange)
-![Badge: SpringBoot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
-![Badge: Gemini AI](https://img.shields.io/badge/Gemini%20API-Integrated-blueviolet)
-![Badge: Chrome Extension](https://img.shields.io/badge/Chrome-Extension-yellow)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Badge: License MIT](https://img.shields.io/badge/License-MIT-lightgrey)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+
 
 
 Smart Summary AI is a Chrome Extension that automatically summarizes selected text from any webpage using Google Gemini AI. Users can also save important summaries as notes stored securely in Chrome Storage.
@@ -26,7 +33,7 @@ Smart Summary AI is a Chrome Extension that automatically summarizes selected te
 - ✅ AI-powered text summarization using `Gemini API`
 - ✅ Save summaries as notes for future reference
 - ✅ Notes persist in Chrome storage
-- ✅ Fast and lightweight UI
+- ✅ Fast and lightweight UI using React (Vite)
 - ✅ Works on all websites
 - ✅ Spring Boot backend for secure API calls
 
